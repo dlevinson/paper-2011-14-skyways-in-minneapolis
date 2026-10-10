@@ -1,0 +1,20 @@
+{
+  "record_id": "paper-2011-14",
+  "title": "Skyways in Minneapolis",
+  "authors": "Feng Xie; David M. Levinson",
+  "year": 2011,
+  "type": "Book chapter",
+  "venue": "Evolving Transportation Networks, chapter 4, pp. 33–43 (Springer, 2011)",
+  "doi": "10.1007/978-1-4419-9804-0_4",
+  "version": "Chapter 4 of Evolving Transportation Networks; exact chapter pages, extracted without rewriting.",
+  "bytes": 683752,
+  "sha256": "40ffc4f92d93a6b504ed2c6024931c1698b838edb349fe9f2fe8429decd60f26",
+  "pdfPages": 11,
+  "sourceUrl": "https://ndl.ethernet.edu.et/handle/123456789/12688",
+  "sourcePdfPages": [
+    46,
+    56
+  ],
+  "path": "paper/2011-skyways-in-minneapolis.pdf",
+  "repository": "dlevinson/paper-2011-14-skyways-in-minneapolis"
+}
